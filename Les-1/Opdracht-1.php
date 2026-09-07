@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title>Test php</title>
+    <title>Opdracht 1</title>
 </head>
 <body>
-    <?php 
-        phpinfo();
-    ?>
+    <?php phpinfo();?>
 </body>
 </html>
