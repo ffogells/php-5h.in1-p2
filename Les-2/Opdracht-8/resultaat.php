@@ -6,8 +6,8 @@
 </head>
 <body>
     <?php
-        $voornaam = $_GET["voornaam"];
-        $achternaam = $_GET["achternaam"];
+        $voornaam = $_POST["voornaam"];
+        $achternaam = $_POST["achternaam"];
         echo "<h1>Hallo ".$voornaam." ".$achternaam."</h1>\n";
     ?>
 </body>
