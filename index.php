@@ -13,5 +13,7 @@
     <a href="Les-1/Opdracht-4.php">Opdracht 4</a><br>
     <a href="Les-1/Opdracht-5.php">Opdracht 5</a><br>
     <a href="Les-1/Opdracht-6.php">Opdracht 6</a><br>
+    <h2>Les 2</h2>
+    <a href="Les-2/Opdracht-8/formulier.php">Opdracht 8</a><br>
 </body>
 </html>
