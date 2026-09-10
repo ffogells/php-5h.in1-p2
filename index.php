@@ -16,6 +16,7 @@
     <h2>Les 2</h2>
     <a href="Les-2/Opdracht-8/formulier.php">Opdracht 8</a><br>
     <a href="Les-2/Opdracht-9/formulier.php">Opdracht 9</a><br>
+    <a href="Les-2/Opdracht-10.php">Opdracht 10</a><br>
     <h2>Overig</h2>
     <a href="LICENSE.md">Licentie</a><br>    
 </body>
