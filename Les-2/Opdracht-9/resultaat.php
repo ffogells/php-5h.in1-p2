@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welkom</title>
+    <title>Opdracht 9 resultaat</title>
 </head>
 <body>
     <?php
