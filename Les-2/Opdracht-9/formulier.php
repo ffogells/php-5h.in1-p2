@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Simpel formulier</title>
+    <title>Opdracht 9 formulier</title>
 </head>
 <body>
     <form method="POST" action="resultaat.php">
